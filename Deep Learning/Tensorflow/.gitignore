@@ -1,6 +1,5 @@
 data/
 __pycache__/
-.ipynb_checkpoints/
 __MACOSX/
 tensorflow_hub/
 
